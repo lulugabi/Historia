@@ -71,7 +71,6 @@ a{
 
 .clique a {
     color: #ffdd1b;
-    display: grid;
-    size-adjust: ;
+    text-align: center;
     font-size: x-large;
 }
