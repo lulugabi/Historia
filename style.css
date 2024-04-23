@@ -64,6 +64,10 @@ a{
 .citacao-de-michell {
     font-style: italic;
 }
+.clique{
+    text-align: right;
+    display: flex;
+}
 
 .clique a {
     color: #ffdd1b;
