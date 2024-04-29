@@ -69,6 +69,7 @@ a{
 .citacao-de-michell {
     font-style: italic;
 }
+
 .clique{
     text-align: right;
     display: flex;
@@ -78,4 +79,9 @@ a{
     color: #ffdd1b;
     text-align: center;
     font-size: x-large;
+}
+
+.as-primeiras-ideias-da-existencia-dos-buracos-negros img {
+    display: flex;
+    align-items: left;
 }
